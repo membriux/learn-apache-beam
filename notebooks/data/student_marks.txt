@@ -1,0 +1,4 @@
+John,US,20,22,40
+Carlos,MX,23,25,35
+Jim,US,25,25,30
+Santiago,MX,23,25,45
