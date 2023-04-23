@@ -1,0 +1,4 @@
+movieId,name,rating
+['2', 'Avengers', '4']
+['3', 'Spiderman', '4.5']
+['4', 'Green Miles', '4']
