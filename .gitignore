@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+beam_streaming/data/
 # Distribution / packaging
 .Python
 build/
