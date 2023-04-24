@@ -1,6 +1,9 @@
 """
-Architecture:
 
+Data downloaded from --> https://grouplens.org/datasets/movielens/
+Dataset -> https://files.grouplens.org/datasets/movielens/ml-latest.zip
+
+Architecture
 movies.csv -> Publisher
 
 movies.subscription -> subscribed to -> Publisher
